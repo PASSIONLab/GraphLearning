@@ -1,4 +1,4 @@
-# GraphLearning Meetings
+# Graph Learning Meetings
 
 # 1/15/2021, lead: none
 ## Agenda 
@@ -13,7 +13,7 @@
 - Discussion on whether the test cases in the Correct&Smooth paper are too simple. 
 - Discussion on whether the proposed C&S model is any easier to tune and/or run compared to GNNs. 
 - We also talked about the issues with the authors' understanding of the topic in the Reddit post
-- Paper for future reading: https://arxiv.org/pdf/1806.01261.pdf
+- Paper for potential future reading: https://arxiv.org/pdf/1806.01261.pdf
 
 
 # 1/15/2021, lead: ?
