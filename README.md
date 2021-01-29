@@ -1,5 +1,12 @@
 # Graph Learning Meetings
 
+# 1/29/2021, lead: Nick S.
+## Agenda 
+
+- How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks https://openreview.net/forum?id=UH-cmocLJC
+
+## Minutes
+
 # 1/15/2021, lead: none
 ## Agenda 
 
@@ -16,9 +23,4 @@
 - Paper for potential future reading: https://arxiv.org/pdf/1806.01261.pdf
 
 
-# 1/15/2021, lead: ?
-## Agenda 
 
-- How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks https://openreview.net/forum?id=UH-cmocLJC
-
-## Minutes
