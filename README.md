@@ -7,6 +7,15 @@
 
 ## Minutes
 
+- Solving a series of successively harder DP problems with GNNs.
+  * Needleman-Wunsch on pairs of reads
+  * Smith-Waterman on pairs of reads
+  * Sequence to graph alignment (potentially useful for pangenomes)
+  * Many-to-many sequence alignment
+  * Assembly on error-free reads
+  * Assembly on erroneous reads
+
+
 # 1/15/2021, lead: none
 ## Agenda 
 
