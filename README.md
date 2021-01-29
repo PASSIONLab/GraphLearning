@@ -1,6 +1,14 @@
 # Graph Learning Meetings
 
-# 1/29/2021, lead: Nick S.
+# 2/12/2021, lead: Nick S.
+
+## Agenda
+ 
+- Learning from Protein Structure with Geometric Vector Perceptrons: https://openreview.net/forum?id=1YLJDvSx6J4
+
+
+# 1/29/2021, lead: none
+
 ## Agenda 
 
 - How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks https://openreview.net/forum?id=UH-cmocLJC
