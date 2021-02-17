@@ -1,5 +1,11 @@
 # Graph Learning Meetings
 
+# 2/26/2021, lead: Nick B.
+
+## Agenda
+ 
+- MSA Transformer: https://www.biorxiv.org/content/10.1101/2021.02.12.430858v1.full.pdf
+
 # 2/12/2021, lead: Nick S.
 
 ## Agenda
