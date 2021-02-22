@@ -1,5 +1,13 @@
 # Graph Learning Meetings
 
+
+# 3/12/2021, lead: Aditi
+
+## Agenda
+ 
+- Topological Graph Neural Networks: https://arxiv.org/pdf/2102.07835.pdf
+
+
 # 2/26/2021, lead: Nick B.
 
 ## Agenda
