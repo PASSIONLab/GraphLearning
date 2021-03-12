@@ -1,6 +1,12 @@
 # Graph Learning Meetings
 
 
+# 3/26/2021, lead: Prashant
+
+## Agenda
+ 
+- Graph Attention Networks: https://arxiv.org/abs/1710.10903
+
 # 3/12/2021, lead: Aditi
 
 ## Agenda
