@@ -1,5 +1,10 @@
 # Graph Learning Meetings
 
+# 4/30/2021, lead: Aydin
+
+## Agenda
+
+- Weisfeiler-Leman Graph Kernels: https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf
 
 # 4/16/2021, lead: Prashant
 
