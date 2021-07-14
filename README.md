@@ -1,5 +1,35 @@
 # Graph Learning Meetings
 
+
+# 7/30/2021, lead: Koby
+
+## Agenda
+
+- Graphs, simplicial complexes, and hypergraphs for data modeling: https://arxiv.org/abs/2006.02870
+- and hypergraph learning: https://vision.cornell.edu/se3/wp-content/uploads/2014/09/icml06.pdf
+
+
+# 7/16/2021, lead: Aydin
+
+## Agenda
+
+- A General Graph Neural Network Framework for Link Prediction: https://arxiv.org/pdf/2106.06935.pdf
+
+
+# 7/9/2021, lead: Aditi and Nick
+
+## Agenda
+
+- Ensemble learning
+
+
+# 5/7/2021, lead: Yu-Hang
+
+## Agenda
+
+- Graph Neural Tangent Kernels: https://openreview.net/pdf/dd6097df468d83341c8f74f3a83470866d994965.pdf
+
+
 # 5/7/2021, lead: Yu-Hang
 
 ## Agenda
