@@ -30,13 +30,6 @@
 - Graph Neural Tangent Kernels: https://openreview.net/pdf/dd6097df468d83341c8f74f3a83470866d994965.pdf
 
 
-# 5/7/2021, lead: Yu-Hang
-
-## Agenda
-
-- Graph Neural Tangent Kernels: https://openreview.net/pdf/dd6097df468d83341c8f74f3a83470866d994965.pdf
-
-
 # 4/30/2021, lead: Aydin
 
 ## Agenda
