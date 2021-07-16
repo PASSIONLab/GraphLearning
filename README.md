@@ -1,5 +1,13 @@
 # Graph Learning Meetings
 
+# 8/13/2021, lead: Nick S.
+
+## Agenda
+
+- Alphafold2 or Baker Lab variant:
+- https://www.nature.com/articles/s41586-021-03819-2
+- https://science.sciencemag.org/content/early/2021/07/14/science.abj8754.full
+
 
 # 7/30/2021, lead: Koby
 
