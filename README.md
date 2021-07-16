@@ -14,6 +14,7 @@
 ## Agenda
 
 - A General Graph Neural Network Framework for Link Prediction: https://arxiv.org/pdf/2106.06935.pdf
+- Path Problems in Networks: https://user.eng.umd.edu/~baras/publications/Books/S00245ED1V01Y201001CNT003.pdf
 
 
 # 7/9/2021, lead: Aditi and Nick
