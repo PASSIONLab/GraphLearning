@@ -1,6 +1,6 @@
 # Graph Learning Meetings
 
-# 8/13/2021, lead: Nick S.
+# 8/20/2021, lead: Nick S.
 
 ## Agenda
 
@@ -9,7 +9,7 @@
 - https://science.sciencemag.org/content/early/2021/07/14/science.abj8754.full
 
 
-# 7/30/2021, lead: Koby
+# 8/6/2021, lead: Koby
 
 ## Agenda
 
