@@ -1,5 +1,13 @@
 # Graph Learning Meetings
 
+# 10/29/2021, lead: Yu-Hang.
+
+## Agenda
+
+- Equivarient GNNs:
+- https://arxiv.org/abs/2102.09844
+
+
 # 8/20/2021, lead: Nick S.
 
 ## Agenda
