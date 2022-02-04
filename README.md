@@ -1,5 +1,12 @@
 # Graph Learning Meetings
 
+# 4/1/2022, lead: Alok 
+
+## Agenda
+
+- High-performance graph sampling for GNN training
+- https://arxiv.org/pdf/2009.06693.pdf
+
 # 3/18/2022, lead: Can and Nick S. 
 
 ## Agenda
