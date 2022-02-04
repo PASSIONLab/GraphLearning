@@ -1,5 +1,64 @@
 # Graph Learning Meetings
 
+# 3/18/2022, lead: Can and Nick S. 
+
+## Agenda
+
+- Numerical optimization for GNN training
+- Parallelization of the new optimization method
+
+
+# 3/4/2022, lead: Yu-Hang
+
+## Agenda
+
+- Model compression (low rank, etc) for neural networks 
+
+
+# 2/18/2022, lead: Vivek and Aydin
+
+## Agenda
+
+- SIGN (Scalable Inception Graph Neural Networks)
+- https://arxiv.org/abs/2004.11198
+
+- OGB large-scale challenge
+- https://arxiv.org/abs/2103.09430
+- https://ogb.stanford.edu/kddcup2021/
+
+
+# 2/4/2022, lead: all
+
+## Agenda
+
+- Organizational meeting
+
+
+# 12/2/2021, lead: Andrew
+
+## Agenda
+
+- Hyperbolic embeddings
+- https://arxiv.org/pdf/1804.03329.pdf
+
+- And here's a good introduction to the paper from the authors
+https://dawn.cs.stanford.edu/2018/03/19/hyperbolics/
+
+- You should only need to understand the Poincaré disk, which the above resources cover. But, if you want some more background on hyperbolic geometry, this book chapter is good:
+http://library.msri.org/books/Book31/files/cannon.pdf
+
+- For those curious to know more about hyperbolic neural networks, here are some more papers on this topic
+
+- Hyperbolic NNs:
+https://arxiv.org/abs/1805.09112
+
+- Fully hyperbolic NNs i.e. no tangent space projection:
+https://arxiv.org/abs/2105.14686
+
+- Hyperbolic attention networks. I haven't read this yet, but it would be remiss of me not at least mention something about attention
+https://arxiv.org/abs/1805.09786
+
+
 # 10/29/2021, lead: Yu-Hang.
 
 ## Agenda
