@@ -26,7 +26,7 @@
 
 ## Agenda
 
-- Model compression (low rank, etc) for neural networks 
+- Model compression for neural networks: [Tensorizing Neural Networks](https://proceedings.neurips.cc/paper/2015/hash/6855456e2fe46a9d49d3d3af4f57443d-Abstract.html).
 
 
 # 2/18/2022, lead: Vivek and Aydin
