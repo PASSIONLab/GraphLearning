@@ -5,7 +5,8 @@
 ## Agenda
 
 - Perhaps this work on TT compression for DLRM? https://proceedings.mlsys.org/paper/2021/hash/979d472a84804b9f647bc185a877a8b5-Abstract.html
-
+- https://csc.mpi-magdeburg.mpg.de/mpcsc/benner/publications_fiona/talks/2021/Benner-IPAM-2021.pdf 
+- https://arxiv.org/pdf/2011.06532.pdf
 
 # 4/1/2022, lead: Alok 
 
