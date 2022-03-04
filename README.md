@@ -4,7 +4,7 @@
 
 ## Agenda
 
-- TBD
+- Perhaps this work on TT compression for DLRM? https://proceedings.mlsys.org/paper/2021/hash/979d472a84804b9f647bc185a877a8b5-Abstract.html
 
 
 # 4/1/2022, lead: Alok 
@@ -27,6 +27,9 @@
 ## Agenda
 
 - Model compression for neural networks: [Tensorizing Neural Networks](https://proceedings.neurips.cc/paper/2015/hash/6855456e2fe46a9d49d3d3af4f57443d-Abstract.html).
+- Applications in DLRM, language models (?), and edge computing
+- Implications for parallelism as this increases depth of NN
+- Tensor-train times dense matrix multiplication as a computational primitive?
 
 
 # 2/18/2022, lead: Vivek and Aydin
