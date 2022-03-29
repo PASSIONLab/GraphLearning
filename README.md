@@ -1,10 +1,10 @@
 # Graph Learning Meetings
 
-# 4/15/2022, lead: Koby 
+# 4/15/2022, lead: Chunxing Yin (Georgia Tech) 
 
 ## Agenda
 
-- Perhaps this work on TT compression for DLRM? https://proceedings.mlsys.org/paper/2021/hash/979d472a84804b9f647bc185a877a8b5-Abstract.html
+- TT compression for DLRM https://proceedings.mlsys.org/paper/2021/hash/979d472a84804b9f647bc185a877a8b5-Abstract.html
 - https://csc.mpi-magdeburg.mpg.de/mpcsc/benner/publications_fiona/talks/2021/Benner-IPAM-2021.pdf 
 - https://arxiv.org/pdf/2011.06532.pdf
 
@@ -14,13 +14,6 @@
 
 - High-performance graph sampling for GNN training
 - https://arxiv.org/pdf/2009.06693.pdf
-
-# 3/18/2022, lead: Can and Nick S. 
-
-## Agenda
-
-- Numerical optimization for GNN training
-- Parallelization of the new optimization method
 
 
 # 3/4/2022, lead: Yu-Hang
