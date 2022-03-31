@@ -14,6 +14,7 @@
 
 - High-performance graph sampling for GNN training
 - https://arxiv.org/pdf/2009.06693.pdf
+- https://arxiv.org/pdf/2203.10983.pdf
 
 
 # 3/4/2022, lead: Yu-Hang
